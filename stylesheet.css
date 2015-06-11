@@ -1,3 +1,6 @@
+div {
+	border-radius: 5px relative;
+}
 #header {
 
 	z-index: 1;
