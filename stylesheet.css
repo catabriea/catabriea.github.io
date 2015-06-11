@@ -1,5 +1,5 @@
 div {
-	border-radius: 5px relative;
+	border-radius: 5px solid;
 }
 #header {
 
@@ -14,9 +14,6 @@ div {
 	background-color: #6A0888;
 
 	margin-bottom: 20px;
-	
-	border: 0px;
-
 }
 
 #name {
