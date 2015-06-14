@@ -20,7 +20,9 @@ header {
 }
 a {
   float: right;
-  font-color: C9A0DC;
+}
+a: hover {
+    color: #B19CD9;
 }
 img {
   float: right;
