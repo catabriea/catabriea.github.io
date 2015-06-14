@@ -9,7 +9,8 @@ header {
   padding: 3px 3px 3px 3px;
   color: #FFFFFF;
   margin: 0 0 15px 0;
-  width: 100%;
+  width-right: 100%;
+  width-left: 100%
 }
 a {
   float: right;
