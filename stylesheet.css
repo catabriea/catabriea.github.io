@@ -16,6 +16,8 @@ a {
 img {
   float: right;
   margin: 0;
+  width:50%;
+  height: 50%;
 }
 h1 {
   font-family: 'Playfair display', serif;
