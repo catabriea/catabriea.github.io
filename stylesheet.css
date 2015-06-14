@@ -20,15 +20,16 @@ img {
   height: 30%;
 }
 h1 {
-  font-family: 'Playfair display', serif;
+  font-family: 'Playfair display';
   margin: 15px 0 15px 0;
   padding: 0 0 0 5px;
   font-size: 16px;
 }
 h1 p {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oxygen';
   color: #000000;
   font-size: 13px;
+  font-style: italic;
 }
 h2 {
   font-family: 'Playfair display', serif;
