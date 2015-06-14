@@ -16,7 +16,7 @@ header {
   padding: 3px 3px 3px 3px;
   color: #FFFFFF;
   margin: 0 0 15px 0;
-  display: block;
+  display: inline-block;
 }
 a {
   float: right;
