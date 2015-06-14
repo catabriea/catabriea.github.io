@@ -1,3 +1,10 @@
+html, body,h1, h2, h3, h4,header, footer, img, a {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+}
 body {
   background-color: #F6CEF5;
 }
