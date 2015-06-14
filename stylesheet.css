@@ -7,8 +7,9 @@ header {
   font-family: 'Pacifico', cursive;
   font-size: 16px;
   padding: 3px 3px 3px 3px;
-  content-area:
-  
+}
+a href {
+  float:right;
 }
 h1 {
   font-family: 'Playfair display', serif;
