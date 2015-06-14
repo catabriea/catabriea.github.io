@@ -31,6 +31,7 @@ img {
   height: 30%;
   padding: 10px 10px 10px 10px;
   clear: left;
+  text-align: right;
 }
 h1 {
   font-family: 'Playfair display';
