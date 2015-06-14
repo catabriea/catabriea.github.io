@@ -8,7 +8,7 @@ header {
   font-size: 16px;
   padding: 3px 3px 3px 3px;
 image {
-  float:right;
+  display: inline;
 }
 h1 {
   font-family: 'Playfair display', serif;
