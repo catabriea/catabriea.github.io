@@ -1,6 +1,9 @@
 body {
   background-color: #F6CEF5;
 }
+header {
+  border-radius: 5px solid ;
+}
 h1 {
   font-family: 'Playfair display', serif;
   margin: 15px 0 15px 0;
