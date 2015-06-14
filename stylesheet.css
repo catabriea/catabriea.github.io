@@ -20,6 +20,13 @@ header {
 a {
   float: right;
 }
+h1 {
+  font-family: 'Playfair display';
+  margin: 15px 0 15px 10px;
+  padding: 0 0 0 5px;
+  font-size: 20px;
+  font-style: bold;
+}
 img {
   margin: 10px 10px 10px 10px;
   width:30%;
@@ -27,13 +34,6 @@ img {
   padding: 10px 10px 10px 10px;
   float: right;
   display: inline;
-}
-h1 {
-  font-family: 'Playfair display';
-  margin: 15px 0 15px 10px;
-  padding: 0 0 0 5px;
-  font-size: 20px;
-  font-style: bold;
 }
 p {
   font-family: 'Oxygen';
