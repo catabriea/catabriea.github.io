@@ -6,9 +6,9 @@ header {
   background-color: #6A0888;
   font-family: 'Pacifico', cursive;
   font-size: 16px;
-  padding: 0 3px 3px 3px;
+  padding: 3px 3px 3px 3px;
   color: #FFFFFF;
-  position: fixed top;
+  float: right;
 }
 h1 {
   font-family: 'Playfair display', serif;
