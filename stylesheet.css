@@ -2,7 +2,7 @@ body {
   background-color: #F6CEF5;
 }
 header {
-  border: 5px solid black;
+  border: 2px solid black;
   background-color: #6A0888;
   font-family: 'Pacifico', cursive;
   font-size: 16px;
@@ -23,15 +23,19 @@ h1 {
   font-family: 'Playfair display';
   margin: 15px 0 15px 0;
   padding: 0 0 0 5px;
-  font-size: 16px;
+  font-size: 20px;
   font-style: bold;
 }
 p {
   font-family: 'Oxygen';
   color: #000000;
-  font-size: 13px;
+  font-size: 15px;
 }
 h2 {
   font-family: 'Playfair display', serif;
-  font-size:15px;
+  font-size:18px;
 }
+h3 { 
+  font-size: 16;
+}
+
