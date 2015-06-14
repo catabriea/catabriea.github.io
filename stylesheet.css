@@ -1,3 +1,8 @@
 body {
   background-color: #F6CEF5;
 }
+h1 {
+  font-family: 'Playfair display', serif;
+  margin: 15px 0 15px 0;
+  padding: 0 0 0 5px;
+}
