@@ -21,9 +21,6 @@ header {
 a {
   float: right;
 }
-a: hover {
-    color: #B19CD9;
-}
 img {
   float: right;
   margin: 10px 10px 10px 10px;
