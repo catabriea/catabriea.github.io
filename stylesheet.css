@@ -25,6 +25,7 @@ img {
   width:30%;
   height: 30%;
   padding: 10px 10px 10px 10px;
+  float: right;
 }
 h1 {
   font-family: 'Playfair display';
@@ -32,6 +33,7 @@ h1 {
   padding: 0 0 0 5px;
   font-size: 20px;
   font-style: bold;
+  float: left;
 }
 p {
   font-family: 'Oxygen';
