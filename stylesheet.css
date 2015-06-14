@@ -22,5 +22,10 @@ img {
 h1 {
   font-family: 'Playfair display', serif;
   margin: 15px 0 15px 0;
-  padding: 0 0 0 10px;
+  padding: 0 0 0 5px;
+}
+h1 p {
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
+  font-size: 12px;
 }
