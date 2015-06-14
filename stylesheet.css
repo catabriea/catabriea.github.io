@@ -17,7 +17,6 @@ header {
   padding: 3px 3px 3px 3px;
   color: #FFFFFF;
   margin: 0 0 15px 0;
-  position: relative;
 }
 a {
   float: right;
@@ -31,7 +30,6 @@ img {
   width:30%;
   height: 30%;
   padding: 10px 10px 10px 10px;
-  position: inline-block;
 }
 h1 {
   font-family: 'Playfair display';
