@@ -13,9 +13,8 @@ header {
 a {
   float: right;
 }
-image {
+img {
   float: right;
-  display: inline;
   margin: 0;
 }
 h1 {
