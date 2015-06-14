@@ -30,6 +30,8 @@ img {
   margin: 10px 10px 10px 10px;
   width:30%;
   height: 30%;
+  padding: 10px 10px 10px 10px;
+  position: inline-block;
 }
 h1 {
   font-family: 'Playfair display';
