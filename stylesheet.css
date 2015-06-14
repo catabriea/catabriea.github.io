@@ -8,7 +8,9 @@ header {
   font-size: 16px;
   padding: 3px 3px 3px 3px;
   color: #FFFFFF;
-  float: right;
+}
+a {
+  float: left;
 }
 h1 {
   font-family: 'Playfair display', serif;
