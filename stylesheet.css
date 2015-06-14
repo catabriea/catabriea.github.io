@@ -26,6 +26,7 @@ img {
   height: 30%;
   padding: 10px 10px 10px 10px;
   float: right;
+  display: inline;
 }
 h1 {
   font-family: 'Playfair display';
