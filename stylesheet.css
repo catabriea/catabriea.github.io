@@ -33,6 +33,7 @@ img{
   width: 15%;
   height: 15%;
   margin: 10px 0 10px 0;
+  position: fixed;
 }
 p {
   font-family: 'Oxygen';
