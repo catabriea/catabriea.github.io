@@ -3,6 +3,7 @@ body {
 }
 header {
   border-radius: 5px solid ;
+  background-color: #6A088;
 }
 h1 {
   font-family: 'Playfair display', serif;
