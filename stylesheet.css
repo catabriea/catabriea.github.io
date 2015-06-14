@@ -25,7 +25,7 @@ img {
   margin: 10px 2px 0 10px;
   width:30%;
   height: 30%;
-  display: inline-block;
+  position: fixed;
 }
 h1 {
   font-family: 'Playfair display';
