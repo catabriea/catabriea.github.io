@@ -13,6 +13,10 @@ header {
 a {
   float: right;
 }
+image {
+  float: right;
+  display: inline;
+}
 h1 {
   font-family: 'Playfair display', serif;
   margin: 15px 0 15px 0;
