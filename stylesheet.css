@@ -24,6 +24,7 @@ h1 {
   margin: 15px 0 15px 0;
   padding: 0 0 0 5px;
   font-size: 16px;
+  font-style: bold;
 }
 p {
   font-family: 'Oxygen';
@@ -32,5 +33,5 @@ p {
 }
 h2 {
   font-family: 'Playfair display', serif;
-  font-size:14px;
+  font-size:15px;
 }
