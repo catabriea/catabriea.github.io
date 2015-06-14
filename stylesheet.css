@@ -16,6 +16,7 @@ a {
 image {
   float: right;
   display: inline;
+  margin: 0;
 }
 h1 {
   font-family: 'Playfair display', serif;
